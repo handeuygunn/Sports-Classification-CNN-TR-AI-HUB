@@ -26,7 +26,7 @@ Bu proje, farklı spor dallarını sınıflandırmak için sıfırdan geliştiri
 
 - **Sonuçlar**
   - Eğitim/Doğrulama doğruluk grafikleri.
-  - Test seti kayıp ve doğruluk değerleri. %78 doğruluk değerine sahip.
+  - Test seti kayıp ve doğruluk değerleri. %81 doğruluk değerine sahip.
   - Eğitim sonrası model `.h5` formatında kaydedilir.
 
 ---
